@@ -1,0 +1,11 @@
+/home/andy/Documents/cdojo/c#/Hungry/bin/Debug/netcoreapp2.1/Hungry.deps.json
+/home/andy/Documents/cdojo/c#/Hungry/bin/Debug/netcoreapp2.1/Hungry.runtimeconfig.json
+/home/andy/Documents/cdojo/c#/Hungry/bin/Debug/netcoreapp2.1/Hungry.runtimeconfig.dev.json
+/home/andy/Documents/cdojo/c#/Hungry/bin/Debug/netcoreapp2.1/Hungry.dll
+/home/andy/Documents/cdojo/c#/Hungry/bin/Debug/netcoreapp2.1/Hungry.pdb
+/home/andy/Documents/cdojo/c#/Hungry/obj/Debug/netcoreapp2.1/Hungry.csprojAssemblyReference.cache
+/home/andy/Documents/cdojo/c#/Hungry/obj/Debug/netcoreapp2.1/Hungry.csproj.CoreCompileInputs.cache
+/home/andy/Documents/cdojo/c#/Hungry/obj/Debug/netcoreapp2.1/Hungry.AssemblyInfoInputs.cache
+/home/andy/Documents/cdojo/c#/Hungry/obj/Debug/netcoreapp2.1/Hungry.AssemblyInfo.cs
+/home/andy/Documents/cdojo/c#/Hungry/obj/Debug/netcoreapp2.1/Hungry.dll
+/home/andy/Documents/cdojo/c#/Hungry/obj/Debug/netcoreapp2.1/Hungry.pdb
